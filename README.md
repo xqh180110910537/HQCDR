@@ -1,6 +1,6 @@
 # HQCDR
 
-## 🧑‍⚕ Origin of the Dataset
+## 🏥 Origin of the Dataset
 
 The **HQCDR** dataset was constructed by ophthalmologists, containing high-quality retinal fundus images with lesion-level annotations. 
 
