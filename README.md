@@ -19,7 +19,7 @@ We provide a statistical overview of lesion types included in the **HQCDR** data
 - **DS** – Drusen
 
 <p align="center">
-    <img src="./preview.PNG" alt="Lesion Distribution Chart" width="80%">
+    <img src="./preview.PNG" alt="Lesion Distribution Chart" width="90%">
   </a>
 </p>
 This figure presents the distribution of diabetic retinopathy lesions across 107 annotated images in the HQCDR dataset, highlighting the prevalence of each lesion type. It also showcases representative examples and segmentation masks for lesions.
