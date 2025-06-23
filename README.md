@@ -1,6 +1,10 @@
 # HQCDR
 
-## 📊 Lesion Type Distribution in HQCDR
+## 🧑‍⚕️ Origin of the Dataset
+
+The **HQCDR** dataset was constructed by ophthalmologists, containing high-quality retinal fundus images with lesion-level annotations. 
+
+## 📊 Dataset Overview
 
 We provide a statistical overview of lesion types included in the **HQCDR** dataset, based on a subset of **107 annotated retinal images**. This analysis helps researchers understand the composition of the dataset and supports lesion-aware model development and evaluation.
 
